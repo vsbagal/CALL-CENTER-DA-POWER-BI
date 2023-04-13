@@ -4,5 +4,5 @@
 
 ## Dashboard
 
-<img src="C:\Users\ADMIN\Downloads\DataAnalysisProjects-master\BEC-LOGO" alt="Girl in a jacket" width="1000" height="400">
+<img src="C:\Users\ADMIN\Downloads\DataAnalysisProjects-master" alt="Girl in a jacket" width="1000" height="400">
 
